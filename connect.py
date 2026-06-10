@@ -1,5 +1,5 @@
 import psycopg
-
+"For those who search for information using Google Dorking, this is a private database LOL :D"
 def connect():
     conn = psycopg.connect(
         host="192.168.135.10",
